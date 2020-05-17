@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+
+<!-- Mirrored from noveligeras.wordpress.com/2017/04/28/wmw-capitulo-202-collar/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Jun 2019 23:55:46 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://noveligeras.wordpress.com/xmlrpc.php">
+
+<title>WMW – Capítulo 202 – Collar &#8211; NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL</title>
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Gentium+Book+Basic:r:latin,latin-ext","PT+Serif:r,i,b,bi:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = '../../../../../s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active pre{font-family:"PT Serif",serif}.wf-active #infinite-handle span, .wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"PT Serif",serif}.wf-active pre{font-family:"PT Serif",serif}.wf-active #infinite-handle span, .wf-active .button, .wf-active button, .wf-active input[type="button"], .wf-active input[type="reset"], .wf-active input[type="submit"]{font-family:"PT Serif",serif}.wf-active .entry-meta{font-family:"PT Serif",serif}.wf-active .panel-navigation a .hidden, .wf-active .panel-navigation a:visited .hidden{font-family:"PT Serif",serif}.wf-active .site-info{font-family:"PT Serif",serif}.wf-active .main-navigation{font-family:"PT Serif",serif}.wf-active .post-navigation .title{font-family:"PT Serif",serif}.wf-active .comment-author .fn{font-family:"PT Serif",serif}.wf-active .comment-metadata{font-family:"PT Serif",serif}.wf-active .comment-form-author label, .wf-active .comment-form-comment label, .wf-active .comment-form-email label, .wf-active .comment-form-url label{font-family:"PT Serif",serif}@media screen and (min-width: 46em){.wf-active .affinity-front-page .edit-link a, .wf-active .affinity-front-page .edit-link a:visited{font-family:"PT Serif",serif}}@media screen and (min-width: 46em){.wf-active .affinity-front-page .hentry:first-of-type .edit-link a, .wf-active .affinity-front-page .hentry:first-of-type .edit-link a:visited{font-family:"PT Serif",serif}}@media screen and (min-width: 46em){.wf-active .affinity-front-page .no-featured-image .edit-link a, .wf-active .affinity-front-page .no-featured-image .edit-link a:visited{font-family:"PT Serif",serif}}.wf-active .main-navigation ul ul{font-family:"PT Serif",serif}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Gentium Book Basic",serif;font-style:normal;font-weight:400}.wf-active h1{font-style:normal;font-weight:400}.wf-active h2{font-style:normal;font-weight:400}.wf-active h3{font-style:normal;font-weight:400}.wf-active h4{font-style:normal;font-weight:400}.wf-active h5{font-style:normal;font-weight:400}.wf-active h6{font-style:normal;font-weight:400}.wf-active .site-header .entry-title{font-weight:400;font-style:normal}.wf-active .site-description{font-family:"Gentium Book Basic",serif;font-weight:400;font-style:normal}.wf-active .site-title{font-family:"Gentium Book Basic",serif;font-style:normal;font-weight:400}.wf-active .comment-reply-title, .wf-active .comments-title{font-style:normal;font-weight:400}.wf-active .widget-title{font-family:"Gentium Book Basic",serif;font-style:normal;font-weight:400}.wf-active .affinity-customizer.affinity-front-page .affinity-panel .affinity-panel-title{font-family:"Gentium Book Basic",serif;font-weight:400;font-style:normal}@media screen and (min-width: 46em){.wf-active h1{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h2{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h3{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h4{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h5{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active h6{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .entry-title{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .site-description{font-style:normal;font-weight:400}}@media screen and (min-width: 46em){.wf-active .page-title{font-style:normal;font-weight:400}}</style>
+<link rel='dns-prefetch' href='http://s2.wp.com/' />
+<link rel='dns-prefetch' href='http://s1.wp.com/' />
+<link rel='dns-prefetch' href='http://s0.wp.com/' />
+<link rel='dns-prefetch' href='http://wordpress.com/' />
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel="alternate" type="application/rss+xml" title="NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL &raquo; Feed" href="https://noveligeras.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL &raquo; RSS de los comentarios" href="https://noveligeras.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL &raquo; WMW – Capítulo 202 –&nbsp;Collar RSS de los comentarios" href="feed/index.html" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1556893897h&ver=5.2.2-alpha-45379"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJyNUNtuwjAM/aEFr5MY4mHat7SpC4Y4iWpHqH8/N6VIg6naS+ScnItz4JadT1ExKnBxOZQTRYFb9omdMAWcnm47L/IGf8sCXVHggppbf3X19qBT9KH09mwA9CQKXUiV1Y3tOIHoFHDHFF8CVvehhOCEFB32pBRP91zISVTMSNRVz8X+Gd1a3KcRDefc6sxgC2gxIBttS8b5c1XN49l+vdnPUmTX5RFFnJ1MhZ2eLWhTZ6p5laXRWuAvZJESxKRkankML55LFOTSQTsMFEnX4v/DrDVW02/+avb740dzaI7vlx+VkNpl?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='affinity-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C400italic%2C700%2C700italic%7CLora%3A400%2C400italic%2C700%2C700italic&amp;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJyNkeFOwzAMhF+I4E1Q/iGexQluaubEUeKq7O1JNyQ6oRV+5U6+75wosBQXNBtlgzS7InPk3CBSpsp9cEc+htYeYMPaRIkalNkDjiNntjNwDtDsLOSWEjT9Yjb7Fn6PZA1o7lM9MTnBBYxSEbTee6n5T8GIgXxvcMKnLj7/JiOpEw1orPnGuFGQ6x5ayYvGLiP01MbuQRjWco/1R+3Fiza73gTahHXd9X3uUU0Do/SnRL019z5ueoYo6lHWwFt6PQ7Dy2F4OgzHjy9Ojs31?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFztEKwjAMBdAfsisyOnwRv6XWOFKXtDbphn69HeiDMBQC9+EeuLFLNshhqhcQG9vdK5THO7ooO/sLGMKxeIWOkD84JFZgXW1OogQifoSNltIZJzBVoDTA2mauacN9v4Q8Iyx/WQTNPtxMAcHnun6i4965Q++GwfXxBTkPW9k='></script>
+<link rel='stylesheet' id='all-css-0-2' href='../../../../../s0.wp.com/wp-content/mu-plugins/highlander-comments/style6f5b.css?m=1530132353h&amp;cssminify=yes' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://noveligeras.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='WMW – Capítulo 201 –&nbsp;Detonación' href='../wmw-capitulo-201-detonacion/index.html' />
+<link rel='next' title='RTW – Capítulo 11 – La Tercera&nbsp;Princesa' href='https://noveligeras.wordpress.com/2017/04/28/rtw-capitulo-11-la-tercera-princesa/' />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='https://wp.me/p8kvv3-wR' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fnoveligeras.wordpress.com%2F2017%2F04%2F28%2Fwmw-capitulo-202-collar%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fnoveligeras.wordpress.com%2F2017%2F04%2F28%2Fwmw-capitulo-202-collar%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="WMW – Capítulo 202 – Collar" />
+<meta property="og:url" content="https://noveligeras.wordpress.com/2017/04/28/wmw-capitulo-202-collar/" />
+<meta property="og:description" content="(13/13)" />
+<meta property="article:published_time" content="2017-04-28T14:45:14+00:00" />
+<meta property="article:modified_time" content="2017-04-28T14:45:14+00:00" />
+<meta property="og:site_name" content="NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL" />
+<meta property="og:image" content="https://noveligeras.files.wordpress.com/2017/05/cropped-3fdb05712367951.png?w=200" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="es_ES" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:text:title" content="WMW – Capítulo 202 –&nbsp;Collar" />
+<meta name="twitter:image" content="https://noveligeras.files.wordpress.com/2017/05/cropped-3fdb05712367951.png?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://noveligeras.wordpress.com/osd.xml" title="NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#0a0a0a" />
+
+		<style type="text/css" id="affinity-overlay-opacity">
+
+			.custom-header-image {
+				opacity: 0.7;
+			}
+
+			.in-panel .custom-header-image {
+				opacity: 1;
+			}
+
+			@media screen and ( min-width: 48em ) {
+				.custom-header-image,
+				.in-panel .custom-header-image {
+					opacity: 0.7;
+				}
+			}
+
+		</style>
+
+			<style type="text/css" id="affinity-scrolling-background-images">
+			@media screen and (min-width: 65em) {
+					.custom-header-image {
+						background-attachment: fixed;
+						background-size: cover;
+						background-position: center;
+					}
+
+					/* Don't allow scrolling in the Customizer or IE11/Edge */
+					.affinity-customizer .custom-header-image,
+					.is-edge .custom-header-image {
+						background-attachment: scroll;
+						background-size: cover;
+					}
+			}
+		</style>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+				<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { pt: 1, ht: 0, tn: 'affinity', amp: false, siteid: 8982, blogid: 123098337, consent: __ATA_CC(), flag: 1 };
+		</script>
+		<script type="text/javascript">
+        !function(){var e=document.createElement("script");e.async=!0,e.type="text/javascript";var t=window.__ATA_PP||{},n=["r="+(new Date).getTime()];for(var r in t)t.hasOwnProperty(r)&&("amp"===r&&(t[r]=Number(t[r])),n.push(r+"="+encodeURIComponent(t[r])));e.src="../../../../../s.pubmine.com/mheadd41d.js?"+n.join("&");var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}();
+        </script><meta name="application-name" content="NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Suscribirse;action-uri=https://noveligeras.wordpress.com/feed/;icon-uri=https://noveligeras.files.wordpress.com/2017/05/cropped-3fdb05712367951.png?w=16" /><meta name="msapplication-task" content="name=Registrar un blog gratuito;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Ayuda de WordPress.com;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Foros de WordPress.com;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="(13/13)" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #0a0a0a; }
+</style>
+	<link rel="amphtml" href="amp/index.html"><style type="text/css" id="syntaxhighlighteranchor"></style>
+<style type="text/css" id="custom-colors-css">@media screen and (min-width:46em){.site-description a,.site-description a:visited{color:#fff !important}.main-navigation.toggled>div{background:0 0 !important}}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type=button]:hover,input[type=button]:active,input[type=button]:focus,input[type=reset]:hover,input[type=reset]:active,input[type=reset]:focus,input[type=submit]:hover,input[type=submit]:active,input[type=submit]:focus{color:#fff}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type=button]:hover,input[type=button]:active,input[type=button]:focus,input[type=reset]:hover,input[type=reset]:active,input[type=reset]:focus,input[type=submit]:hover,input[type=submit]:active,input[type=submit]:focus{border-color:#fff}#infinite-handle span button:hover,#infinite-handle span button:focus,#infinite-handle span button:active{color:#fff}#infinite-handle span:hover button,#infinite-handle span:focus button,#infinite-handle span:active button{color:#fff}.button,button,#infinite-handle span,#infinite-handle span button,input[type=button],input[type=reset],input[type=submit]{color:#fff}.button,button,#infinite-handle span,input[type=button],input[type=reset],input[type=submit]{border-color:#fff}.menu-toggle{color:#fff}body,button,#infinite-handle span,input,select,textarea{color:#8b807d}label{color:#5e5853}.site-footer .sep{color:#8b807d}.page-links{color:#8b807d}a:hover,a:focus,a:active{color:#74828f}.entry-meta a:hover,.entry-meta a:focus,.entry-meta a:active{color:#74828f}.entry-meta{color:#74828f}.entry-footer{color:#74828f}.comment-navigation a,.comment-navigation a:visited,.posts-navigation a,.posts-navigation a:visited,.post-navigation a,.post-navigation a:visited{color:#74828f}.comment-navigation,.posts-navigation,.post-navigation{border-color:#e8e9ea}.comment-navigation,.posts-navigation,.post-navigation{border-color:rgba(232,233,234,.4)}.entry-meta{border-color:#e8e9ea}.entry-meta{border-color:rgba(232,233,234,.5)}#secondary .widget{border-color:#e8e9ea}#secondary .widget{border-color:rgba(232,233,234,.4)}.widget-title{border-color:#e8e9ea}.widget-title{border-color:rgba(232,233,234,.4)}.widget div>ul li,.widget>ul li{border-color:#e8e9ea}.widget div>ul li,.widget>ul li{border-color:rgba(232,233,234,.5)}.hentry{border-color:#e8e9ea}.hentry{border-color:rgba(232,233,234,.5)}.page-links{border-color:#e8e9ea}.page-links{border-color:rgba(232,233,234,.4)}td,th{border-color:#e8e9ea}td,th{border-color:rgba(232,233,234,.5)}.page-header{border-color:#e8e9ea}.page-header{border-color:rgba(232,233,234,.5)}blockquote{border-color:#e8e9ea}blockquote{border-color:rgba(232,233,234,.5)}.comment-body{border-color:#e8e9ea}.comment-body{border-color:rgba(232,233,234,.5)}.entry-meta,.comment-meta{border-color:#e8e9ea}.entry-meta,.comment-meta{border-color:rgba(232,233,234,.5)}input[type=text],input[type=email],input[type=url],input[type=password],input[type=search],input[type=number],input[type=tel],input[type=range],input[type=date],input[type=month],input[type=week],input[type=time],input[type=datetime],input[type=datetime-local],input[type=color],textarea{border-color:#e8e9ea}input[type=text],input[type=email],input[type=url],input[type=password],input[type=search],input[type=number],input[type=tel],input[type=range],input[type=date],input[type=month],input[type=week],input[type=time],input[type=datetime],input[type=datetime-local],input[type=color],textarea{border-color:rgba(232,233,234,.4)}.footer-widgets .widget-title{color:#e8e9ea}.footer-widgets{color:#e8e9ea}.site-title a,.site-title a:visited{color:#e8e9ea}body,.main-navigation.toggled>div{background-color:#0a0a0a}.entry-title,.entry-title a,.entry-title a:visited{color:#828282}h1,h2,h3,h4,h5,h6{color:#828282}.widget-title{color:#828282}.comment-author .fn a,.comment-author .fn a:visited{color:#828282}.affinity-front-page .no-featured-image .entry-title{color:#828282}.main-navigation ul ul a,.main-navigation ul ul a:visited{color:#6d6d6d}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type=button]:hover,input[type=button]:active,input[type=button]:focus,input[type=reset]:hover,input[type=reset]:active,input[type=reset]:focus,input[type=submit]:hover,input[type=submit]:active,input[type=submit]:focus{background-color:#727272}.button:hover,.button:active,.button:focus,button:hover,#infinite-handle span:hover,button:active,#infinite-handle span:active,button:focus,#infinite-handle span:focus,input[type=button]:hover,input[type=button]:active,input[type=button]:focus,input[type=reset]:hover,input[type=reset]:active,input[type=reset]:focus,input[type=submit]:hover,input[type=submit]:active,input[type=submit]:focus{outline-color:#727272}.button:hover,.button:focus,.button:active{outline-color:#727272}a,a:visited{color:#d16037}.post-navigation .title{color:#d16037}.site-footer{color:#d16037}blockquote{color:#d16037}.comment-navigation a:hover,.comment-navigation a:visited:hover,.posts-navigation a:hover,.posts-navigation a:visited:hover,.post-navigation a:hover,.post-navigation a:visited:hover{color:#d16037}.site-description a,.site-description a:visited{color:#d16037}.main-navigation ul ul a:hover,.main-navigation ul ul a.focus{color:#b64f29}.main-navigation ul ul li:hover>a:visited,.main-navigation ul ul li.focus>a:visited{color:#b64f29}.footer-widgets a,.footer-widgets a:visited{color:#cf5a2f}.button,button,#infinite-handle span,input[type=button],input[type=reset],input[type=submit]{outline-color:#bb512a}.button,button,#infinite-handle span,input[type=button],input[type=reset],input[type=submit]{background-color:#bb512a}input[type=text]:focus,input[type=email]:focus,input[type=url]:focus,input[type=password]:focus,input[type=search]:focus,input[type=number]:focus,input[type=tel]:focus,input[type=range]:focus,input[type=date]:focus,input[type=month]:focus,input[type=week]:focus,input[type=time]:focus,input[type=datetime]:focus,input[type=datetime-local]:focus,input[type=color]:focus,textarea:focus{border-color:#bb512a}</style>
+<link rel="icon" href="../../../../../noveligeras.files.wordpress.com/2017/05/cropped-3fdb0571236795176ca.png?w=32" sizes="32x32" />
+<link rel="icon" href="../../../../../noveligeras.files.wordpress.com/2017/05/cropped-3fdb057123679519939.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="../../../../../noveligeras.files.wordpress.com/2017/05/cropped-3fdb05712367951ad83.png?w=180" />
+<meta name="msapplication-TileImage" content="https://noveligeras.files.wordpress.com/2017/05/cropped-3fdb05712367951.png?w=270" />
+</head>
+
+<body class="post-template-default single single-post postid-2037 single-format-standard custom-background wp-custom-logo wp-embed-responsive mp6 customizer-styles-applied custom-header-active highlander-enabled highlander-light">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Saltar al contenido</a>
+
+	<header id="masthead" class="site-header" role="banner">
+
+		
+<div class="custom-header">
+	
+			<div class="custom-header-image" style="padding-top: 59.9%; background-image: url(../../../../../noveligeras.files.wordpress.com/2017/07/cropped-407935-secretland.jpg);">
+			</div>
+
+	
+</div><!-- .custom-header -->
+
+		<div class="header-wrapper clear">
+	<div class="site-branding">
+					<p class="site-title"><a href="https://noveligeras.wordpress.com/" rel="home">NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL</a></p>
+			</div><!-- .site-branding -->
+
+	<nav id="site-navigation" class="main-navigation" role="navigation">
+	<button class="menu-toggle" aria-controls="top-menu" aria-expanded="false">Menú</button>
+	<div class="menu-principal-container"><ul id="top-menu" class="menu"><li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-42"><a href="https://noveligeras.wordpress.com/">Inicio</a></li>
+<li id="menu-item-2791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2791"><a href="https://noveligeras.wordpress.com/novelas/">Novelas</a>
+<ul class="sub-menu">
+	<li id="menu-item-4324" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-4324"><a href="https://noveligeras.wordpress.com/category/sin-categoria/">Inactivas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3286"><a href="https://noveligeras.wordpress.com/i-shall-seal-the-heavens-2/">ISSTH</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4323" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-4323"><a href="https://noveligeras.wordpress.com/category/sin-categoria/">Activas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4621"><a href="https://noveligeras.wordpress.com/al-otro-lado-del-lago/">Al Otro Lado del Lago</a></li>
+		<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://noveligeras.wordpress.com/atg/">ATG</a></li>
+		<li id="menu-item-1478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1478"><a href="https://noveligeras.wordpress.com/wmw/gdk/">GDK</a></li>
+		<li id="menu-item-2640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2640"><a href="https://noveligeras.wordpress.com/invincible-2/">Invincible</a></li>
+		<li id="menu-item-1396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1396"><a href="https://noveligeras.wordpress.com/rtw/">RTW</a></li>
+		<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://noveligeras.wordpress.com/wmw/">WMW</a></li>
+		<li id="menu-item-5149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5149"><a href="https://noveligeras.wordpress.com/watchmen/">Watchmen</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2809"><a href="https://noveligeras.wordpress.com/actualizacionesnoveligeras/">Actualizaciones</a></li>
+<li id="menu-item-2259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="https://noveligeras.wordpress.com/staff/">Staff</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://noveligeras.wordpress.com/contacto/">Contacto</a></li>
+</ul></div></nav><!-- #site-navigation -->
+</div><!-- .header-wrapper -->
+
+
+<h1 class="entry-title">WMW – Capítulo 202 –&nbsp;Collar</h1>
+	</header>
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-2037" class="post-2037 post type-post status-publish format-standard hentry category-sin-categoria">
+
+	
+	<header class="entry-header">
+		<h1 class="entry-title">WMW – Capítulo 202 –&nbsp;Collar</h1>	</header>
+
+			<div class="entry-summary">
+			<p>(13/13)</p>
+		</div>
+	
+					<div class="entry-meta">
+			<span class="posted-on"><a href="index.html" rel="bookmark"><time class="entry-date published updated" datetime="2017-04-28T11:45:14-04:00">28 abril, 2017</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="https://noveligeras.wordpress.com/author/lurixer/">Lurixer</a></span></span>		</div><!-- .entry-meta -->
+	
+	<div class="entry-content">
+
+		<p>&#8220;¡No! ¡Eso es imposible!&#8221;</p>
+<p>Jenna, que se había derrumbado a un lado, estaba agarrando la mitad de su rostro. Al ver a Leylin escapar, gritó incrédula.<span id="more-2037"></span></p>
+<p>&#8220;¿Cómo saliste? ¡En el futuro que vi, no había nada como esto! &#8221;</p>
+<p>Gritó Jenna, sus músculos faciales temblaban ligeramente.</p>
+<p>&#8220;Lo sé. ¡Tienes que ser él! ¡Debes ser el traidor que va contra el destino!” El tono de Jenna se volvió repentinamente extremadamente alto.</p>
+<p>&#8220;¡Quién soy no es importante! ¡Lo importante es que hoy tendrás que morir horriblemente!&#8221;</p>
+<p>La intención asesina de Leylin se hizo más fuerte. ¡Desde que dio un paso en el camino de un Mago, esta fue la primera vez que sufrió una derrota tan grande!</p>
+<p>Las lesiones que sufrió en su cuerpo y en su brazo izquierdo, que estaba a punto de romperse, no eran fáciles de tratar. Su próxima misión en el plano secreto se había vuelto más precaria.</p>
+<p>Al pensarlo, la furia del corazón de Leylin se hizo más enérgica.</p>
+<p>&#8220;¡Perra! ¡Quiero que sepas el precio de ofenderme! &#8221;</p>
+<p>¡Leylin rugió, y usó su brazo derecho, el único que todavía estaba en buenas condiciones, para golpear violentamente a Jenna!</p>
+<p>Torrentes de humo negro parecidos a una cuerda emergieron desde el suelo y subieron hacia Jenna.</p>
+<p>“¡Protégeme!” Jenna cogió el gran collar que le rodeaba el cuello.</p>
+<p>Una gema roja se iluminó y una enorme bola de fuego de lava se generó delante de Jenna, precipitándose hacia el humo negro.</p>
+<p>*¡Boom!*</p>
+<p>Se emitió una inmensa onda de energía, la ardiente lava fundida se dispersó en todas direcciones, creando grandes agujeros negros en el suelo.</p>
+<p>&#8220;¡Incluso si tienes todos los hechizos preparados en ese collar el día de hoy, no podrás salvarte!&#8221;</p>
+<p>Los ojos de Leylin brillaron fríamente.</p>
+<p>¡Varias bolas de fuego negras se dispararon instantáneamente, y se fusionaron en el aire como una bola de fuego colectiva! Las inmensas ondas de energía estallaron momentáneamente con una potencia que alcanzó los 51 grados y que inmediatamente quemó una enorme fosa en el suelo.</p>
+<p>&#8220;¡Bola de Fuego Latente!&#8221;</p>
+<p>Leylin señaló a Jenna.</p>
+<p>La gigantesca bola de fuego se parecía a una puesta de sol, proyectándose sobre la posición de Jenna.</p>
+<p>Antes de que las llamas negras descendieran, más sudor corrió por el rostro de Jenna, que era aún más pálido que antes.</p>
+<p>Jenna apretó los dientes, escupiendo un carácter en Lenguaje Byron desde su boca.</p>
+<p>En ese momento, el collar alrededor de su cuello continuamente emanó ondas de energía mágica de hielo mientras que las perlas en el collar emitían una luz y producían una serie de rayos blancos.</p>
+<p>Los rayos blancos formaban una docena de enormes escudos de hielo delante de Jenna.</p>
+<p>Los grandes y translúcidos escudos podían reflejar claramente el entorno. Las bolas de fuego negras de antes volaron a través del aire, y en un instante, golpearon estos escudos de hielo.</p>
+<p>Se estaba emitiendo vapor de agua.</p>
+<p>A una distancia de las bolas de fuego, el vapor de agua se condensó rápidamente en gotas de agua y trozos de hielo que cayeron al suelo.</p>
+<p>Después de que todo se había calmado, los escudos de hielo que estaban delante de Jenna y la Bola de Fuego Latente ya habían desaparecido sin dejar rastro.</p>
+<p>En la niebla, una figura negra apareció dentro.</p>
+<p>Leylin, cuyo cuerpo estaba cubierto con las finas Escamas Kemoyin, cargó inmediatamente hacía donde estaba Jenna.</p>
+<p>*Sssii*</p>
+<p>La capa defensiva de hielo que provenía del collar de Jenna fue aplastada inmediatamente por la mano derecha de Leylin. Al mismo tiempo, él derribó a Jenna con su cuerpo.</p>
+<p>* ¡Pa! * Los hombros de Leylin se estrellaron con un enorme impacto en Jenna.</p>
+<p>* ¡Chi Chi! * Una capa de luz blanca apareció en las túnicas de Jenna, envolviendo todo su cuerpo.</p>
+<p>Este era el hechizo innato de defensa de Jenna. Finalmente había estallado en el momento más crucial.</p>
+<p>*¡Pa Pa!*</p>
+<p>Jenna voló hacia atrás como el frente de un tren que había dejado sus rieles, golpeando muchos árboles a lo largo del camino.</p>
+<p>&#8220;Esta mujer…&#8221;</p>
+<p>Leylin centró su atención en Jenna. Después de ese intercambio, podía decir que ella era simplemente una Maga recién avanzada. En términos de conversión de esencia elemental, ella estaba lejos de ser su partido. Si no fuera porque tenía un poderoso artefacto mágico en posesión, así como ese increíble don para la adivinación, ella habría muerto en manos de Leylin.</p>
+<p>Siempre que le dieran tiempo para establecer formaciones, rápidamente podría encontrar métodos que fueran específicamente tendidos de acuerdo a la debilidad de su enemigo, como esa increíble jaula de pilares blancos que lo había atrapado. ¡Incluso un Mago de rango 1 en su pico estaría en problemas!</p>
+<p>&#8220;Los enemigos con hechizos profetizantes son los más problemáticos. ¡Tuve la suerte de que su profecía no salió como estaba planeado, pero es poco probable que vuelva a tener tanta suerte! &#8221;</p>
+<p>Los ojos de Leylin se volvieron fríos como el hielo.</p>
+<p>La idea de que había un oponente que estaba operando detrás de las escenas con habilidades profetizantes le dejó un mal sabor de boca. Tener que pasar por esto una vez más sería demasiado.</p>
+<p>Nunca su intención asesina alcanzaría un grado tan urgente.</p>
+<p>&#8220;¡Sombra Furtiva!&#8221;</p>
+<p>Leylin miró tenazmente a Jenna, que se había arrastrado. Las escamas de su cuerpo parpadearon y se volvieron gradualmente translúcidas, y él desapareció en el aire.</p>
+<p>Había decidido hacer todo lo posible al tratar con Jenna, y se propuso asegurar que esta maldita mujer permaneciera aquí para siempre.</p>
+<p>Al ver a Leylin desaparecer en el aire, la expresión de Jenna se volvió aún más seria. En la actualidad sentía la determinación de Leylin de matarla. ¡Ella nació inteligente, y con su técnica de meditación de alto grado y su sexto sentido reforzado, sus instintos le dijeron que, si ella cometía el más mínimo error, entonces ella sería la que moriría el día de hoy!</p>
+<p>Por primera vez, una experiencia tan aterradora había tomado el control del espíritu de Jenna. En el fondo de su corazón, su fuerza de voluntad, que no podía ser sacudida, había cedido lentamente.</p>
+<p>¡Por primera vez, Jenna sentía que era una muy mala decisión venir aquí solo para asesinar a Leylin!</p>
+<p>Este temor y pesar eran como una serpiente venenosa que continuamente carcomía su ya débil fortaleza mental.</p>
+<p>En este momento, una gema en forma de corazón de color rosa explotó dentro del collar de Jenna.</p>
+<p>Jenna parecía perpleja al principio, pero muy pronto su voluntad se fortaleció.</p>
+<p>&#8220;¡Es un hechizo alucinatorio, con cierta coerción psicológica!&#8221; La cara de Jenna se puso roja. &#8220;¡Despreciable!&#8221;</p>
+<p>*¡Boom!*</p>
+<p>Una figura negra apareció delante de Jenna.</p>
+<p>Con la mano derecha apretada en un puño, Leylin golpeó la capa defensiva del hechizo innato de Jenna.</p>
+<p>*¡Pa!*</p>
+<p>Este hechizo innato no estaba en su mejor condición tras su consumo anterior, y con el puño de hierro de Leylin, se rompió en incontables manchas blancas, disipándose en el aire.</p>
+<p>La mano derecha de Leylin fue capaz de agarrar el brazo derecho de Jenna sin obstrucciones.</p>
+<p>* ¡Ka-Cha! * El sonido del crujir de un hueso sonó y el brazo derecho de Jenna fue arrancado por Leylin.</p>
+<p>“¡Arghh!” Los músculos faciales de Jenna se contrajeron de dolor. Apretó los dientes y la seda de sus ropas pareció retorcerse con vida, vendando su herida rápidamente.</p>
+<p>Al mismo tiempo, una gran fuerza de empuje fue emitida de su cuerpo, como si quisiera dejar el área de ataque de Leylin.</p>
+<p>“¿Estás pensando en correr?”</p>
+<p>Las pupilas de Leylin se centraron en Jenna. “¡Ojos de Petrificación!”</p>
+<p>Instantáneamente, una misteriosa luz fue emitida por los ojos ámbar de Leylin mientras miraba a Jenna.</p>
+<p>“¿Magia de la petrificación?”</p>
+<p>Jenna emitió un sonido de desconcierto. La magia de petrificación era algo que había estado extinto en el Mundo Mago. ¡Ahora, esto era un hechizo que solamente las criaturas con líneas de sangre antiguas tenían como capacidad!</p>
+<p>A continuación, se oyó un crujido del cuerpo de Jenna, como si sus músculos se hubieran endurecido.</p>
+<p>Una capa de piedra empezó a extenderse desde el rostro de Jenna.</p>
+<p>*¡Ka-cha! ¡Ka-cha! *</p>
+<p>Frente a Leylin, Jenna se convirtió en una escultura de piedra color ceniza.</p>
+<p>*¡Ding!*</p>
+<p>Cuando el color ceniza la envolvió completamente, una leve vibración vino del voluminoso collar.</p>
+<p>El collar flotó en el aire, donde la débil voz de una persona anciana sonó. &#8220;¡Guardia Supremo de la Vida! ¡Activar!&#8221;</p>
+<p>¡Luz! Una luz deslumbrante brilló y envolvió la región en un instante.</p>
+<p>Después de que Leylin abriera los ojos, la estatua de piedra delante de él ya se había desmoronado. Jenna, que estaba adentro, había desaparecido, dejando sólo un montón de piel petrificada.</p>
+<p>Después de lanzar este hechizo final, ese collar voluminoso perdió todos sus poderes.</p>
+<p>*¡Ka-Cha! * * ¡Ka-Cha! *</p>
+<p>Una capa de piedra petrificada repentinamente surgió en la superficie del collar. El collar se había convertido en piedra, cayó al suelo y se hizo pedazos.</p>
+<p>&#8220;¡Este es un hechizo de sustitución!&#8221;</p>
+<p>La expresión de Leylin se volvió aún más solemne. &#8220;¡Este collar contenía tanto poder y hasta ocultaba un último hechizo de sustitución de cuerpo! ¡Una organización extremadamente grande debe estar detrás de Jenna!&#8221;</p>
+<p>Después de darse cuenta de esta situación, la intención asesina en el corazón de Leylin se hizo aún más fuerte.</p>
+<p>“¡No podrás huir de mí!”</p>
+<p>Leylin inhaló profundamente, cuando una luz azul apareció inmediatamente en sus ojos y escaneó el entorno.</p>
+<p>Varias docenas de segundos más tarde, Leylin frunció el ceño y se dirigió a una dirección determinada.</p>
+<p>&#8220;¡Yo &#8230; tengo que darme prisa y escapar!&#8221;</p>
+<p>Jenna agarró el trozo de su brazo roto y rápidamente atravesó el bosque.</p>
+<p>&#8220;El collar de herencia de mi familia fue destruido, pero no pude deshacerme de él &#8230;&#8221;</p>
+<p>Jenna estaba muy deprimida. El collar de antes era una herencia, y para ser destruido mientras estaba en su posesión era un enorme golpe para ella.</p>
+<p>“¡Maldito hereje! ¡Traidor del destino! ¡Llegará el día que te castigaré! &#8221;</p>
+<p>Jenna se comprometió en su interior.</p>
+<p>“¡Te encontré!” Algo que sonaba como la voz del diablo resonó en su oído, y un vicioso aire caliente la rozó.</p>
+<p>Jenna rápidamente se lanzó hacia un lado.</p>
+<p>*¡Boom!*</p>
+<p>Una enorme explosión sonó en el lugar donde había estado, secciones del suelo y plantas volaron por todas partes.</p>
+<p>Mientras tanto, Jenna repentinamente olía algo muy dulce e inmediatamente después, todo su cuerpo se entumeció y se derrumbó en el suelo, incapaz de moverse.</p>
+<p>&#8220;¡Este es el fin!&#8221;</p>
+<p>Leylin se acercó a Jenna, que había inhalado grandes cantidades de cloroformo, y levantó su brazo derecho sin expresión.</p>
+<p>&#8220;Tú &#8230; ¡No puedes matarme! ¿Sabes quién soy?&#8221;</p>
+<p>Jenna luchó, tartamudeando sus pensamientos.</p>
+<p>Sin esperar a que Leylin preguntara, respondió rápidamente: “Yo soy la sucesora de la Familia Guardiana. Estoy en buenos términos con el dominio de los Magos de la Luz y varias organizaciones grandes. En el momento en que me mates &#8230; &#8221;</p>
+<p>&#8220;¡No me importa quién seas!&#8221;</p>
+<p>¡Con su mano derecha armada con llamas negras, él la clavó hacía abajo!</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Compártelo:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-2037" class="share-twitter sd-button share-icon" href="index9a7b.html?share=twitter" target="_blank" title="Haz clic para compartir en Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-2037" class="share-facebook sd-button share-icon" href="index5a58.html?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-123098337-2037-5cfed80dda824' data-src='//widgets.wp.com/likes/index.html?ver=20190321#blog_id=123098337&amp;post_id=2037&amp;origin=noveligeras.wordpress.com&amp;obj_id=123098337-2037-5cfed80dda824' data-name='like-post-frame-123098337-2037-5cfed80dda824'><h3 class='sd-title'>Me gusta:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Me gusta</span></span> <span class="loading">Cargando...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>	</div>
+
+				<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+	
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Navegador de artículos</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="../wmw-capitulo-201-detonacion/index.html" rel="prev"><span class="title">Previous post</span>WMW – Capítulo 201 –&nbsp;Detonación</a></div><div class="nav-next"><a href="https://noveligeras.wordpress.com/2017/04/28/rtw-capitulo-11-la-tercera-princesa/" rel="next"><span class="title">Next post</span>RTW – Capítulo 11 – La Tercera&nbsp;Princesa</a></div></div>
+	</nav>
+<div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			13 respuestas a &ldquo;<span>WMW – Capítulo 202 –&nbsp;Collar</span>&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+					<li id="comment-1094" class="comment byuser comment-author-mariolol156 even thread-even depth-1 highlander-comment">
+			<article id="div-comment-1094" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/2cb040bae22deee5bc32da3b6d3d05eb?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn">Legión</b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-1094">
+							<time datetime="2018-02-05T06:53:48-04:00">
+								5 febrero, 2018 de 06:53							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Muere zorra o aun peor conviértete en un alma y se torturada para transformarte en una poción para el protagonista</p>
+<p id="comment-like-1094" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="indexc88a.html?like_comment=1094&amp;_wpnonce=5ffeea8c79" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-1094" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index89c8.html?replytocom=1094#respond' data-commentid="1094" data-postid="2037" data-belowelement="div-comment-1094" data-respondelement="respond" aria-label='Responder a Legión'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-1063" class="comment odd alt thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-1063" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/9a98321796101f0a1d89844192cc7b7a?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn"><a href='https://plus.google.com/114230407039925979363' rel='external nofollow' class='url'>Facuelfacha12</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-1063">
+							<time datetime="2018-01-27T05:45:43-04:00">
+								27 enero, 2018 de 05:45							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Jajaja que estupida jaja</p>
+<p id="comment-like-1063" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="indexf88b.html?like_comment=1063&amp;_wpnonce=9afe94c970" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-1063" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='indexe065.html?replytocom=1063#respond' data-commentid="1063" data-postid="2037" data-belowelement="div-comment-1063" data-respondelement="respond" aria-label='Responder a Facuelfacha12'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-1059" class="comment byuser comment-author-watashinomusume19 even thread-even depth-1 highlander-comment">
+			<article id="div-comment-1059" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/962801849331cb67c22aa064ed4505cd?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn">alejandro pizarro</b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-1059">
+							<time datetime="2018-01-25T19:39:08-04:00">
+								25 enero, 2018 de 19:39							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>uffff intentaste matarlo, y quieres salir con tu vida intacta&#8230;. que broma!!<br />
+Maldita perra</p>
+<p id="comment-like-1059" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index8cf9.html?like_comment=1059&amp;_wpnonce=ad0b29dffe" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-1059" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index78d5.html?replytocom=1059#respond' data-commentid="1059" data-postid="2037" data-belowelement="div-comment-1059" data-respondelement="respond" aria-label='Responder a alejandro pizarro'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-239" class="comment byuser comment-author-lordmarco odd alt thread-odd thread-alt depth-1 parent highlander-comment">
+			<article id="div-comment-239" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/c8f9ecc7fa5104545c15abea6c9bec61?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn"><a href='http://lordmarco.wordpress.com/' rel='external nofollow' class='url'>lordMarco</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-239">
+							<time datetime="2017-05-11T00:27:12-04:00">
+								11 mayo, 2017 de 00:27							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Mazzzzzzzz alimentame alimentame más leylin es la leyyy<br />
+PD: pa cuando mazzzzz</p>
+<p id="comment-like-239" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index03bc.html?like_comment=239&amp;_wpnonce=c7a43bb973" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-239" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='indexaef1.html?replytocom=239#respond' data-commentid="239" data-postid="2037" data-belowelement="div-comment-239" data-respondelement="respond" aria-label='Responder a lordMarco'>Responder</a></div>			</article><!-- .comment-body -->
+		<ol class="children">
+		<li id="comment-241" class="comment byuser comment-author-lurixer bypostauthor even depth-2 highlander-comment">
+			<article id="div-comment-241" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/c847805eec3de3e87f5a8fc9fcc64651?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn"><a href='https://noveligeras.wordpress.com/' rel='external nofollow' class='url'>Lurixer</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-241">
+							<time datetime="2017-05-11T10:01:45-04:00">
+								11 mayo, 2017 de 10:01							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>El día viernes, en Facebook dije que no podía subir el día de ayer <img width='16' height='16' class='wp-smiley emoji' draggable='false' alt=':/' src='https://s1.wp.com/wp-content/mu-plugins/wpcom-smileys/uneasy.svg' style='height: 1em; max-height: 1em;' /></p>
+<p id="comment-like-241" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index172a.html?like_comment=241&amp;_wpnonce=360e8a2fa4" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-241" class="comment-like-feedback">Le gusta a <a href="#" class="view-likers" data-like-count="1">1 persona</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index446c.html?replytocom=241#respond' data-commentid="241" data-postid="2037" data-belowelement="div-comment-241" data-respondelement="respond" aria-label='Responder a Lurixer'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-194" class="comment odd alt thread-even depth-1 highlander-comment">
+			<article id="div-comment-194" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/091c5d9f224a41f908a73189a6125964?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn">Danielht</b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-194">
+							<time datetime="2017-05-03T20:10:59-04:00">
+								3 mayo, 2017 de 20:10							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Ufff que bueno que no escapó</p>
+<p id="comment-like-194" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="indexde53.html?like_comment=194&amp;_wpnonce=3d772c262d" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-194" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='indexc978.html?replytocom=194#respond' data-commentid="194" data-postid="2037" data-belowelement="div-comment-194" data-respondelement="respond" aria-label='Responder a Danielht'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-175" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-175" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='../../../../../i2.wp.com/lh4.googleusercontent.com/-BbKYM0kZeyg/AAAAAAAAAAI/AAAAAAAAAHk/6G2aV1HIk4w/photoc838.jpg?resize=60%2C60&amp;ssl=1' class='avatar avatar-60' height='60' width='60' />						<b class="fn"><a href='https://plus.google.com/103561356989435376025' rel='external nofollow' class='url'>steven prada</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-175">
+							<time datetime="2017-04-30T15:39:42-04:00">
+								30 abril, 2017 de 15:39							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>gracias por el capitulo ??<br />
+esperando el próximo</p>
+<p id="comment-like-175" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="indexf8cd.html?like_comment=175&amp;_wpnonce=f507331a26" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-175" class="comment-like-feedback">Le gusta a <a href="#" class="view-likers" data-like-count="1">1 persona</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index1bd8.html?replytocom=175#respond' data-commentid="175" data-postid="2037" data-belowelement="div-comment-175" data-respondelement="respond" aria-label='Responder a steven prada'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-168" class="comment odd alt thread-even depth-1 highlander-comment">
+			<article id="div-comment-168" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='../../../../../i2.wp.com/lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photoc838.png?resize=60%2C60&amp;ssl=1' class='avatar avatar-60' height='60' width='60' />						<b class="fn"><a href='https://plus.google.com/117114756990912796130' rel='external nofollow' class='url'>yony hr</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-168">
+							<time datetime="2017-04-29T12:58:23-04:00">
+								29 abril, 2017 de 12:58							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>gracias.</p>
+<p id="comment-like-168" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index1c75.html?like_comment=168&amp;_wpnonce=c68677a54b" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-168" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index749e.html?replytocom=168#respond' data-commentid="168" data-postid="2037" data-belowelement="div-comment-168" data-respondelement="respond" aria-label='Responder a yony hr'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-166" class="comment even thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-166" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/5f31660b7a969b630c173e22347583e0?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn">Klo</b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-166">
+							<time datetime="2017-04-29T10:08:08-04:00">
+								29 abril, 2017 de 10:08							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Muxhas gracias por el pack!</p>
+<p id="comment-like-166" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index5662.html?like_comment=166&amp;_wpnonce=4b9fa58f52" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-166" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index74ab.html?replytocom=166#respond' data-commentid="166" data-postid="2037" data-belowelement="div-comment-166" data-respondelement="respond" aria-label='Responder a Klo'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-162" class="comment odd alt thread-even depth-1 highlander-comment">
+			<article id="div-comment-162" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://0.gravatar.com/avatar/68642f525e75e30afd86589fdfcb786e?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn">?  ?</b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-162">
+							<time datetime="2017-04-28T20:57:02-04:00">
+								28 abril, 2017 de 20:57							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Muchisimas gracias por pedazo pack.<br />
+P.D: Yo creo que en menos de 10 capítulos hace la convergion de la linea de sangre, vosotros k apostáis?</p>
+<p id="comment-like-162" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="indexee01.html?like_comment=162&amp;_wpnonce=6e36b612c2" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-162" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='indexfeb7.html?replytocom=162#respond' data-commentid="162" data-postid="2037" data-belowelement="div-comment-162" data-respondelement="respond" aria-label='Responder a ?  ?'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-161" class="pingback even thread-odd thread-alt depth-1 highlander-comment">
+			<div class="comment-body">
+				Pingback: <a href='https://noveligeras.wordpress.com/2017/04/28/ultimas-actualizaciones/' rel='external nofollow' class='url'>Últimas actualizaciones &#8211; NOVELAS LIGERAS TRADUCIDAS AL ESPAÑOL</a> 			</div>
+		</li><!-- #comment-## -->
+		<li id="comment-158" class="comment byuser comment-author-asakurajohan odd alt thread-even depth-1 highlander-comment">
+			<article id="div-comment-158" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/87d1cd73a5852cbdbccddc346aee0289?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn"><a href='http://asakurajohan.wordpress.com/' rel='external nofollow' class='url'>johan_flores</a></b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-158">
+							<time datetime="2017-04-28T17:19:09-04:00">
+								28 abril, 2017 de 17:19							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>gracias por el packetazo<br />
+Ps: jajaja nadie se mete con el prota y sale vivo</p>
+<p id="comment-like-158" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index20f9.html?like_comment=158&amp;_wpnonce=c085235d98" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-158" class="comment-like-feedback">Me gusta</span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='indexfbcf.html?replytocom=158#respond' data-commentid="158" data-postid="2037" data-belowelement="div-comment-158" data-respondelement="respond" aria-label='Responder a johan_flores'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-153" class="comment byuser comment-author-akiraxkenji even thread-odd thread-alt depth-1 highlander-comment">
+			<article id="div-comment-153" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://2.gravatar.com/avatar/8f69c651cc5990aaf1ec330533f0a455?s=60&amp;d=identicon&amp;r=G' class='avatar avatar-60' height='60' width='60' />						<b class="fn">akiraxkenji</b> <span class="says">dice:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="index.html#comment-153">
+							<time datetime="2017-04-28T12:05:46-04:00">
+								28 abril, 2017 de 12:05							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>muchas gracias por el suculento pack :3</p>
+<p id="comment-like-153" data-liked=comment-not-liked class="comment-likes comment-not-liked"><a href="index8e20.html?like_comment=153&amp;_wpnonce=95b8601332" class="comment-like-link needs-login" rel="nofollow" data-blog="123098337"><span>Me gusta</span></a><span id="comment-like-count-153" class="comment-like-feedback">Le gusta a <a href="#" class="view-likers" data-like-count="1">1 persona</a></span></p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='index6994.html?replytocom=153#respond' data-commentid="153" data-postid="2037" data-belowelement="div-comment-153" data-respondelement="respond" aria-label='Responder a akiraxkenji'>Responder</a></div>			</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		</ol>
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Responder <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancelar respuesta</a></small></h3>			<form action="https://noveligeras.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="ffaf56e48e" /><input type="hidden" name="_wp_http_referer" value="/2017/04/28/wmw-capitulo-202-collar/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Introduce aquí tu comentario...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Introduce aquí tu comentario..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+	<div id="comment-form-nascar">
+		<p>Introduce tus datos o haz clic en un icono para iniciar sesión:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" class="nascar-signin-link"
+                   title="Login via Invitado">
+									</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" class="nascar-signin-link"
+                   title="Login via WordPress.com">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg>				</a>
+			</li>
+			<li>
+			<iframe id="googleplus-sign-in" name="googleplus-sign-in" src="https://public-api.wordpress.com/connect/?googleplus-sign-in=https%3A%2F%2Fnoveligeras.wordpress.com&amp;color_scheme=light" width="24" height="24" scrolling="no" allowtransparency="true" seamless="seamless" frameborder="0"></iframe>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" class="nascar-signin-link"
+                   title="Login via Twitter">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"/></g></svg>				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" class="nascar-signin-link"
+                   title="Login via Facebook">
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg>				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Correo electrónico <span class="required">(necesario)</span> <span class="nopublish">(La dirección no se hará pública)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Nombre <span class="required">(necesario)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Web</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Logo de WordPress.com" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+						<p class="comment-form-posting-as pa-wordpress">
+			<strong></strong>
+			Estás comentando usando tu cuenta de WordPress.com.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Cerrar&nbsp;sesión</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Cambiar</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+						<p class="comment-form-posting-as pa-googleplus">
+			<strong></strong>
+			Estás comentando usando tu cuenta de Google.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Cerrar&nbsp;sesión</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Cambiar</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" x="0px" y="0px" viewBox="0 0 60 60" ><path fill="#519bf7" d="M56.3,30c0,-1.6 -0.2,-3.4 -0.6,-5h-3.1H42.2H30v10.6h14.8C44,39.3 42,42 39.1,43.9l8.8,6.8C53,46 56.3,39 56.3,30z" /><path fill="#3db366" d="M30,57.5c6.7,0 13.1,-2.4 17.9,-6.8l-8.8,-6.8c-2.5,1.6 -5.6,2.4 -9.1,2.4c-7.2,0 -13.3,-4.7 -15.4,-11.2l-9.3,7.1C9.8,51.3 19.1,57.5 30,57.5z" /><path fill="#fdc600" d="M5.3,42.2l9.3,-7.1c-0.5,-1.6 -0.8,-3.3 -0.8,-5.1s0.3,-3.5 0.8,-5.1l-9.3,-7.1C3.5,21.5 2.5,25.6 2.5,30S3.5,38.5 5.3,42.2z" /><path fill="#f15b44" d="M40.1,17.4l8,-8C43.3,5.1 37,2.5 30,2.5C19.1,2.5 9.8,8.7 5.3,17.8l9.3,7.1c2.1,-6.5 8.2,-11.1 15.4,-11.1C33.9,13.7 37.4,15.1 40.1,17.4z" /></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Imagen de Twitter" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+						<p class="comment-form-posting-as pa-twitter">
+			<strong></strong>
+			Estás comentando usando tu cuenta de Twitter.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Cerrar&nbsp;sesión</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Cambiar</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Foto de Facebook" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+						<p class="comment-form-posting-as pa-facebook">
+			<strong></strong>
+			Estás comentando usando tu cuenta de Facebook.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Cerrar&nbsp;sesión</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Cambiar</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancelar</a></div>
+		<p>Conectando a %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notificarme los nuevos comentarios por correo electrónico.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Recibir nuevas entradas por email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit" value="Publicar comentario" /> <input type='hidden' name='comment_post_ID' value='2037' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="57a12901bc" /></p>
+<input type="hidden" name="genseq" value="1560205325" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="207"/></p>			</form>
+			</div><!-- #respond -->
+	<div style="clear: both"></div>
+</div><!-- #comments -->
+
+		</main>
+	</div>
+	<aside id="secondary" class="widget-area" role="complementary">
+
+		<section id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://noveligeras.wordpress.com/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form></section><section id="media_image-13" class="widget widget_media_image"><h2 class="widget-title">AL OTRO LADO DEL LAGO</h2><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><figure style="width: 1342px" class="wp-caption alignnone"><a href="https://noveligeras.wordpress.com/al-otro-lado-del-lago/"><img width="1342" height="1785" src="../../../../../noveligeras.files.wordpress.com/2018/02/aoll41fa.png?w=1342" class="image wp-image-5432  attachment-1342x1785 size-1342x1785" alt="" style="max-width: 100%; height: auto;" srcset="https://noveligeras.files.wordpress.com/2018/02/aoll.png 1342w, https://noveligeras.files.wordpress.com/2018/02/aoll.png?w=113 113w, https://noveligeras.files.wordpress.com/2018/02/aoll.png?w=226 226w, https://noveligeras.files.wordpress.com/2018/02/aoll.png?w=768 768w" sizes="(max-width: 1342px) 100vw, 1342px" data-attachment-id="5432" data-permalink="https://noveligeras.wordpress.com/al-otro-lado-del-lago/aoll/" data-orig-file="https://noveligeras.files.wordpress.com/2018/02/aoll.png" data-orig-size="1342,1785" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="AOLL" data-image-description="" data-medium-file="https://noveligeras.files.wordpress.com/2018/02/aoll.png?w=226" data-large-file="../../../../../noveligeras.files.wordpress.com/2018/02/aolld552.png?w=770" /></a><figcaption class="wp-caption-text">Sinopsis: Raynard Boldorg, quería confesar su amor a una chica de su escuela, pero por cosas del destino, la chica se "suicida" lanzándose desde un risco.</figcaption></figure></section><section id="media_image-9" class="widget widget_media_image"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="https://discord.gg/C6aTvSt"><img class="image alignnone" src="../../../../../coresimracing.com/wp-content/uploads/2015/08/Discord_Purple_Tight.html" alt="" width="727" height="199" /></a></section><section id="facebook-likebox-3" class="widget widget_facebook_likebox">		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/NovelasLigerasLX" data-width="340"  data-height="432" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/NovelasLigerasLX"><a href="https://www.facebook.com/NovelasLigerasLX"></a></blockquote></div>
+		</div>
+		</section><section id="recent-comments-3" class="widget widget_recent_comments"><h2 class="widget-title">Comentarios recientes</h2>				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="Edgar" class="recentcommentsavatartop" style="height:48px; width:48px;"><img alt='' src='https://2.gravatar.com/avatar/b2f29a96c39566b059bda4d6d12c29c9?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstexttop" style="">Edgar en <a href="https://noveligeras.wordpress.com/2018/10/20/despedida/comment-page-1/#comment-1813">Despedida</a></td></tr><tr><td title="salo" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://1.gravatar.com/avatar/a1cf625ff811b1a54089d43977133e93?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">salo en <a href="../../../08/18/wmw-capitulo-301-busqueda/comment-page-1/index.html#comment-1802">WMW – Capítulo 301 –&nbsp;Búsq&hellip;</a></td></tr><tr><td title="Salo" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://1.gravatar.com/avatar/a1cf625ff811b1a54089d43977133e93?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">Salo en <a href="https://noveligeras.wordpress.com/wmw/comment-page-1/#comment-1801">Warlock of the Magus&nbsp;Worl&hellip;</a></td></tr><tr><td title="J A Y K A I 2 G A M E R" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://2.gravatar.com/avatar/bf75683c967b1040043998d1283a9630?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">J A Y K A I 2 G A M&hellip; en <a href="https://noveligeras.wordpress.com/wmw/gdk/comment-page-2/#comment-1800">Great Demon King</a></td></tr><tr><td title="LordHachimingo" class="recentcommentsavatarend" style="height:48px; width:48px;"><img alt='' src='https://2.gravatar.com/avatar/b490ace094c574fc9533bb4d7610c089?s=48&amp;d=identicon&amp;r=G' class='avatar avatar-48' height='48' width='48' /></td><td class="recentcommentstextend" style="">LordHachimingo en <a href="https://noveligeras.wordpress.com/wmw/comment-page-1/#comment-1791">Warlock of the Magus&nbsp;Worl&hellip;</a></td></tr>				</table>
+				</section>		<section id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widget-title">ENTRADAS</h2>		<ul>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/20/despedida/">Despedida</a>
+											<span class="post-date">20 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/atg-capitulo-1120-como-si-se-reunieran-en-un-sueno/">ATG – Capítulo 1120 –  Como si se Reunieran en un&nbsp;Sueño</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/atg-capitulo-1119-inmortal-entre-todas-las-hierbas/">ATG – Capítulo 1119 –  Inmortal entre todas las&nbsp;Hierbas</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/atg-capitulo-1118-tercera-capa-del-mundo/">ATG – Capítulo 1118 –  Tercera Capa del&nbsp;Mundo</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/wmw-capitulo-538-linea-de-sangre-del-nino-del-sol/">WMW – Capítulo 538 – Línea de Sangre del Niño del&nbsp;Sol</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/wmw-capitulo-537-locha-chupasangre/">WMW – Capítulo 537 – Locha&nbsp;Chupasangre</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/wmw-capitulo-536-problema-del-alma/">WMW – Capítulo 536 – Problema del&nbsp;Alma</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/wmw-capitulo-535-estrella-protectora-de-comercio/">WMW – Capítulo 535 – Estrella Protectora de&nbsp;Comercio</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/rtw-capitulo-351-ilusiones-parte-ii/">RTW – Capítulo 352 – Ilusiones (Parte&nbsp;II)</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/rtw-capitulo-351-ilusiones-parte-i/">RTW – Capítulo 351 – Ilusiones (Parte&nbsp;I)</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/invincible-capitulo-301-sutra-de-la-alabarda-de-la-eminente-santidad/">Invincible – Capítulo 301 – Sutra de la Alabarda de la Eminente&nbsp;Santidad</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/invincible-capitulo-300-pildora-espiritual-de-grado-divino/">Invincible – Capítulo 300 – Píldora Espiritual de Grado&nbsp;Divino</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/10/08/invincible-capitulo-299-en-el-fondo-del-manantial-frio/">Invincible – Capítulo 299 – En el Fondo del Manantial&nbsp;Frío</a>
+											<span class="post-date">8 octubre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/24/rtw-capitulo-346-eventos-pasados-parte-3/">RTW – Capítulo 346 – Eventos Pasados (Parte&nbsp;3)</a>
+											<span class="post-date">24 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/wmw-capitulo-534-area-de-comercio-de-la-estrella-de-la-manana/">WMW – Capítulo 534 – Área de Comercio de la Estrella de la&nbsp;Mañana</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/wmw-capitulo-533-la-continuacion/">WMW – Capítulo 533 – La&nbsp;Continuación</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/wmw-capitulo-532-plan/">WMW – Capítulo 532 –&nbsp;Plan</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/wmw-capitulo-531-descuido/">WMW – Capítulo 531 –&nbsp;Descuido</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/rtw-capitulo-350-transmision-parte-ii/">RTW – Capítulo 350 – Transmisión (Parte&nbsp;II)</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/rtw-capitulo-349-transmision-parte-i/">RTW – Capítulo 349 – Transmisión (Parte&nbsp;I)</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/rtw-capitulo-348-mortales-y-extraordinarias/">RTW – Capítulo 348 – Mortales y&nbsp;Extraordinarias</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/rtw-capitulo-347-confusiones/">RTW – Capítulo 347 –&nbsp;Confusiones</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+											<li>
+					<a href="https://noveligeras.wordpress.com/2018/09/23/invincible-capitulo-298-refinando-el-pez-de-energia-espiritual/">Invincible – Capítulo 298 – Refinando el Pez de Energía&nbsp;Espiritual</a>
+											<span class="post-date">23 septiembre, 2018</span>
+									</li>
+					</ul>
+		</section>
+	</aside>
+
+	</div>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+
+		
+		
+		<div class="site-info">
+	<a href="https://wordpress.com/?ref=footer_website">Crea un blog o un sitio web gratuitos con WordPress.com.</a>
+	
+	</div><!-- .site-info -->
+	</footer>
+</div>
+<!--  -->
+<script type='text/javascript' src='../../../../../0.gravatar.com/js/gprofiles2649.js?ver=201924y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgrohoc3b6.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-2cb040bae22deee5bc32da3b6d3d05eb">
+	</div>
+	<div class="grofile-hash-map-9a98321796101f0a1d89844192cc7b7a">
+	</div>
+	<div class="grofile-hash-map-962801849331cb67c22aa064ed4505cd">
+	</div>
+	<div class="grofile-hash-map-c8f9ecc7fa5104545c15abea6c9bec61">
+	</div>
+	<div class="grofile-hash-map-c847805eec3de3e87f5a8fc9fcc64651">
+	</div>
+	<div class="grofile-hash-map-091c5d9f224a41f908a73189a6125964">
+	</div>
+	<div class="grofile-hash-map-195f49af37acf71b24c090c7d1481b1c">
+	</div>
+	<div class="grofile-hash-map-94cae3516bcca6fbb888555fc8e13862">
+	</div>
+	<div class="grofile-hash-map-5f31660b7a969b630c173e22347583e0">
+	</div>
+	<div class="grofile-hash-map-68642f525e75e30afd86589fdfcb786e">
+	</div>
+	<div class="grofile-hash-map-87d1cd73a5852cbdbccddc346aee0289">
+	</div>
+	<div class="grofile-hash-map-8f69c651cc5990aaf1ec330533f0a455">
+	</div>
+	<div class="grofile-hash-map-b2f29a96c39566b059bda4d6d12c29c9">
+	</div>
+	<div class="grofile-hash-map-a1cf625ff811b1a54089d43977133e93">
+	</div>
+	<div class="grofile-hash-map-bf75683c967b1040043998d1283a9630">
+	</div>
+	<div class="grofile-hash-map-b490ace094c574fc9533bb4d7610c089">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Iniciando sesi\u00f3n\u2026","submittingText":"Publicando comentario\u2026","postCommentText":"Publicar comentario","connectingToText":"Conectando a %s","commentingAsText":"%1$s: Est\u00e1s comentando usando tu cuenta de %2$s.","logoutText":"Cerrar sesi\u00f3n","loginText":"Acceder","connectURL":"https:\/\/noveligeras.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/noveligeras.wordpress.com\/wp-login.php?action=logout&_wpnonce=e577cc07ec","homeURL":"https:\/\/noveligeras.wordpress.com\/","postID":"2037","gravDefault":"identicon","enterACommentError":"Por favor, introduce un comentario","enterEmailError":"Por favor introduce tu direcci\u00f3n de correo electr\u00f3nico aqu\u00ed","invalidEmailError":"Direcci\u00f3n de correo electr\u00f3nico no v\u00e1lida","enterAuthorError":"Por favor, introduce tu nombre aqu\u00ed","gravatarFromEmail":"Esta imagen se mostrar\u00e1 cuando dejes un comentario. Haz clic para cambiarla.","logInToExternalAccount":"Inicia sesi\u00f3n para usar los datos de una de estas cuentas.","change":"Cambiar","changeAccount":"Cambiar cuenta","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../s2.wp.com/_static/index813c.html??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1551752381j'></script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/noveligeras.wordpress.com\/2017\/04\/28\/wmw-capitulo-202-collar\/":2037};
+	</script>
+				<div class="widget widget_eu_cookie_law_widget"><div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Cerrar y aceptar" class="accept" />
+
+		Privacidad &amp; Cookies: este sitio usa cookies. Al continuar usando este sitio, estás de acuerdo con su uso. Para saber más, incluyendo como controlar las cookies, mira aquí:
+		<a href="https://automattic.com/cookies" >
+			Política de Cookies.		</a>
+ </form>
+</div>
+</div><script type='text/javascript'>
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Cargando..."};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"es_ES"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var actionbardata = {"siteID":"123098337","siteName":"NOVELAS LIGERAS TRADUCIDAS AL ESPA\u00d1OL","siteURL":"http:\/\/noveligeras.wordpress.com","icon":"<img alt='' src='https:\/\/noveligeras.files.wordpress.com\/2017\/05\/cropped-3fdb05712367951.png?w=50' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/affinity","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fnoveligeras.wordpress.com%2F2017%2F04%2F28%2Fwmw-capitulo-202-collar%2F&signup_flow=account","themeURL":"https:\/\/wordpress.com\/theme\/affinity\/","xhrURL":"https:\/\/noveligeras.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"81c9b58f78","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"2a4a20d4a4\" \/>","referer":"https:\/\/noveligeras.wordpress.com\/2017\/04\/28\/wmw-capitulo-202-collar\/","canFollow":"1","feedID":"59994327","statusMessage":"","customizeLink":"https:\/\/noveligeras.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fnoveligeras.wordpress.com%2F2017%2F04%2F28%2Fwmw-capitulo-202-collar%2F","postID":"2037","shortlink":"https:\/\/wp.me\/p8kvv3-wR","canEditPost":"","editLink":"https:\/\/wordpress.com\/post\/noveligeras.wordpress.com\/2037","statsLink":"https:\/\/wordpress.com\/stats\/post\/2037\/noveligeras.wordpress.com","i18n":{"view":"Ver sitio","follow":"Seguir","following":"Siguiendo","edit":"Editar","login":"Acceder","signup":"Reg\u00edstrate","customize":"Personalizar","report":"Denunciar este contenido","themeInfo":"Obtener el tema: Affinity","shortlink":"Copiar enlace corto","copied":"Copiado","followedText":"Las nuevas publicaciones de este sitio aparecer\u00e1n ahora en tu <a href=\"https:\/\/wordpress.com\/\">Lector<\/a>","foldBar":"Contraer esta barra","unfoldBar":"Expandir esta barra","editSubs":"Gestionar las suscripciones","viewReader":"Ver sitio en el Lector","viewReadPost":"View post in Reader","subscribe":"Suscr\u00edbeme","enterEmail":"Introduce tu email","followers":"\u00danete a otros 144 seguidores","alreadyUser":"\u00bfYa tienes una cuenta de WordPress.com? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fnoveligeras.wordpress.com%2F2017%2F04%2F28%2Fwmw-capitulo-202-collar%2F&signup_flow=account\">Accede ahora<\/a>.","stats":"Estad\u00edsticas"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"es","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVkdtOwzAMhl+ILJwmsQvEoyA3cTq3OS1O1u3tSTc6FRiVehXL/j/Hvy2HKFTwGX2WHUuNR1IYT5uOH+Ss5IqItrTkWVrqkeWhYME9eG0xLYhVcK6mxBXqRrqRPFDENdCPxASSV7boq4ActMg2gEa9ceTvaRxw8Ok8L09/5z26KoqlkWAMecpnCcyYL6ApXmUKntdhHo7Uwgiu47inWJ36XpigCgtDp3t2pp0kjPauqdlCB9Lt2B1LrYaeUFgYZEYXLWT8lV/o02GOoHr5WQeRBhQ2lRLomrr1/ynQdTrRQBpPkDHVSIQjpkSjlVtuZYec6iR/TjKHLkcboVu0pO6JHWbxsnn8theSW9DHwFkYC5Qk7yGRb6e3Qh/u/Wm7fd3tdm/b5+4LEJJEpA=='></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='https://noveligeras.wordpress.com/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20190321#ver=20190321&amp;lang=es' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text">A <span>%d</span> blogueros les gusta esto:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script src="../../../../../stats.wp.com/w072b.js?60" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'123098337','blog_tz':'-4','user_lang':'es','blog_lang':'es','user_id':'0'}]);
+_stq.push(['view', {'blog':'123098337','v':'wpcom','tz':'-4','user_id':'0','post':'2037','subd':'noveligeras'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1wamRFTUJvcCVmdVtvcCUrditEcC5rdHw4JUQsQU4vR3dMJT82VTRnczRMU105WE5qZWtoXWczU3FUeU5sTDU0eWV5aUpsL05TYytWbTMxX2JSbHhxQjl+YkkyTFZla3ZXJTRmN041PUdCOEJMK2tLaXR5RCxOfHRDRHhddDA5R1ptLExDJUZQMUEzNCZ1RUQvbWF0UyY3V0Rwcl9WX1gsJkczZjFMcGRQLl1odjJUMC1SYS0md05oRzlDP2VlUVpjSnJjPXJ6JkdnYS42S2xFZnFUOH5mQ0NoUWduVHYwNVBOMzcxQ1hffHNWOFktTDk1NjZxWWJPa2ZGSkNiTjF2RHcwVHMmdit3N2JXdG4tQU9HVUs4NG1lZVVqZERSbTFsWl9SMiZGR0l1PWNSWHZNNF1Na0wzS1d2Lllu'}]);
+_stq.push([ 'clickTrackerInit', '123098337', '2037' ]);
+	</script>
+<noscript><img src="../../../../../pixel.wp.com/b0b80.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+
+<!-- Mirrored from noveligeras.wordpress.com/2017/04/28/wmw-capitulo-202-collar/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 10 Jun 2019 23:55:46 GMT -->
+</html>
